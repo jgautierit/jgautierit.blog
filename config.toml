@@ -1,9 +1,9 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://jgautierit.github.io/"  # Include trailing slash
-title = "Clarity"
-author = "Jane Doe"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+title = "jgautierit"
+author = "Jonathan Gautier"
+copyright = "Copyright © 2018–2021, Jonathan Gautier; all rights reserved."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
