@@ -1,8 +1,13 @@
----
-title: vSphere 7 Lifecycle Manager - Can't Sync the HCL
-tags: VMware vCenter
-date: 2020-06-23 00:00:00 +0200
----
++++
+author = "Jonathan Gautier"
+title = "vSphere 7 Lifecycle Manager - Can't Sync the HCL"
+date = "2020-06-23"
+description = "XXX"
+tags = [
+    "vCenter",
+    "VMware",
+]
++++
 
 After upgrading vCenter 6.7 to 7.0 for one of my customer, I had a strange issue where I could not Sync the HCL with the Lifecycle Manager in vCenter 7.0
 
