@@ -1,8 +1,15 @@
----
-title: New Export Directory - Upgrade from 6.5 to 6.7
-tags: VMware Upgrade vCenter
-date: 2018-09-18 00:00:00 +0200
----
++++
+author = "Jonathan Gautier"
+title = "New Export Directory - Upgrade from 6.5 to 6.7"
+date = "2018-09-18"
+description = "How to create an export directory when upgrading vCenter."
+tags = [
+    "vCenter",
+    "VMware",
+    "Upgrade",
+]
++++
+
 This post is dedicated to the "Stage 2" of the upgrade process from vCenter 6.5 to vCenter 6.7. I recently came across a scenario where the configuration exceeded the size of the root partition within the source vCenter appliance.
 {: .text-justify}
 In this case, a new export has to be provided to the upgrade utility in order to go forward.
